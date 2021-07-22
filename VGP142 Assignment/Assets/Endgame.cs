@@ -13,7 +13,7 @@ public class Endgame : MonoBehaviour
         {
             Endscrn.gameObject.SetActive(true);
 
-
+            
 
         }
     }

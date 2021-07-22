@@ -6,6 +6,7 @@ TagManager:
   tags:
   - End
   - PlayerTag
+  - SpawnPoint
   layers:
   - Default
   - TransparentFX
